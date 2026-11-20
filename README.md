@@ -1,6 +1,6 @@
 # Hi, I'm Muxammadin Idrisaliyev 
 
-### Aspiring Penetration Tester | Cybersecurity Enthusiast
+Aspiring Penetration Tester | Cybersecurity Enthusiast | Linux & Network Security
 
 I'm passionate about cybersecurity, ethical hacking, and penetration testing. Currently developing my skills through hands-on labs, practical security exercises, and continuous learning.
 
