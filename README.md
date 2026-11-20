@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Muxammadin Idrisaliyev 
 
-<!--
-**muxammadin7/muxammadin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Penetration Tester | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about cybersecurity, ethical hacking, and penetration testing. Currently developing my skills through hands-on labs, practical security exercises, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+-  Focused on Penetration Testing and Ethical Hacking
+-  Working with Kali Linux and Linux environments
+-  Interested in Network Security and Web Security
+-  Practicing cybersecurity through Hack The Box labs
+-  Continuously learning and improving my technical skills
+
+## 🛠️ Technical Skills
+
+- **Operating Systems:** Kali Linux, Linux
+- **Security Tools:** Nmap, Wireshark
+- **Programming:** Python, JavaScript, HTML, CSS, SQL
+- **Areas of Interest:** Network Security, Web Security, Information Gathering, Penetration Testing
+
+## 🏆 Certifications
+
+- **Certified Cybersecurity Foundations (CORE)** — Hackviser  
+  [Verify Certificate](https://hackviser.com/verify?id=HV-CORE-DUR57XM6)
+
+- **Introduction to Critical Infrastructure Protection (ICIP)** — OPSWAT Academy
+
+## 💻 Projects & Practice
+
+I'm building practical cybersecurity projects and documenting my learning journey.
+
+- Hands-on penetration testing labs
+- Network reconnaissance and enumeration practice
+- Python security tools
+- Linux command-line practice
+
+More projects and technical write-ups will be added as I progress.
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Muxammadin Idrisaliyev](https://www.linkedin.com/in/muxammadin-idrisaliyev-2a7ab63b2/)
+- **GitHub:** [@muxammadin7](https://github.com/muxammadin7)
+- **Portfolio:** [muxammadin7.github.io](https://muxammadin7.github.io)
+
+---
+
+⭐ *Learning every day. Building practical skills. Growing in cybersecurity.*
